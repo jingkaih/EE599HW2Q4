@@ -2,3 +2,5 @@
 The function that swapping two intergers by references called SwapByRef(). 
 
 The function that swapping two intergers by pointers called SwapByPtr().
+
+Time complexities are both O(1)
